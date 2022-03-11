@@ -109,7 +109,7 @@ Here are a few games I often play in my free time;
 
 <p align="center">
 
-  <img width="852" height="480" src="https://user-images.githubusercontent.com/99950141/157659960-84e1e1d2-d784-47f1-a1ff-db0a321fcefa.jpg">
+  <img width="852" height="440" src="https://user-images.githubusercontent.com/99950141/157659960-84e1e1d2-d784-47f1-a1ff-db0a321fcefa.jpg">
 </p>
 
 #### Riot Games' competitive 5v5 character-based tactical shooter, VALORANT, that was released on June 2nd, 2020. Set in a near-future Earth, you team up with 4 other players against 5 enemies in round-based combat with an agent of your choice. Creativity is your greatest weapon.
@@ -128,7 +128,7 @@ Here are a few games I often play in my free time;
 
 <p align="center">
 
-  <img width="852" height="480" src="https://user-images.githubusercontent.com/99950141/157664782-076be829-6843-4621-a52c-0e5b086f8322.png">
+  <img width="852" height="440" src="https://user-images.githubusercontent.com/99950141/157664782-076be829-6843-4621-a52c-0e5b086f8322.png">
 </p>
 
 #### Apex Legends is a free-to-play hero shooter game developed by Respawn Entertainment and published by Electronic Arts. It was released on February 4, 2019. Apex Legends plans on releasing on mobile in 2022.
@@ -147,7 +147,7 @@ Here are a few games I often play in my free time;
 
 <p align="center">
 
-  <img width="852" height="480" src="https://user-images.githubusercontent.com/99950141/157665927-d99fd87b-722b-4f75-9f24-51b3c0984518.png">
+  <img width="852" height="440" src="https://user-images.githubusercontent.com/99950141/157665927-d99fd87b-722b-4f75-9f24-51b3c0984518.png">
 </p>
 
 #### Genshin Impact is an open-world, action RPG developed and published by miHoYo for PC, iOS/Android, and PS4/PS5 platforms. The game is free-to-play with a gacha monetization system in the form of Wishes.
